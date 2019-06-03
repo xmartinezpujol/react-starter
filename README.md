@@ -39,7 +39,7 @@ npm run build
 
 ### Testing
 
-Uses Jest for Unit Testing and Snapshots.
+Uses Jest for Unit Testing and Snapshots. Cypress for End to End testing.
 
 Run tests
 ``` shell
